@@ -1,0 +1,7 @@
+.active {
+  color: #e00000;
+}
+
+.image:hover {
+  cursor: pointer;
+}
